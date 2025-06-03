@@ -1,3 +1,3 @@
-# TPF---Avalia-o-de-express-es-num-ricas
+# TPF---Avaliador-de-expressçôes-numéricas
 Este trabalho prático tem por objetivo desenvolver um programa em linguagem C capaz de avaliar expressões matemáticas escritas, com suporte a operações básicas e funções matemáticas especiais. O sistema também deverá ser capaz de converter e avaliar expressões entre as formas infixada e pós-fixada, utilizando pilhas como estrutura fundamental.
 
