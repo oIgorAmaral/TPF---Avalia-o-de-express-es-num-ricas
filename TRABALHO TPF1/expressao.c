@@ -8,7 +8,7 @@
 #define M_PI 3.14159265358979323846
 #endif
 
-// Funções auxiliares traduzidas
+// Funções auxiliares 
 int ehEspaco(char c) { return (c == ' ' || c == '\t' || c == '\n' || c == '\r' || c == '\f' || c == '\v'); }
 int ehDigito(char c) { return (c >= '0' && c <= '9'); }
 int ehLetra(char c) { return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z')); }
